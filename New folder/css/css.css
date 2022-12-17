@@ -1,0 +1,365 @@
+*{
+  box-sizing: border-box;
+  -webkit-margin-before: 0;
+  margin-block-start: 0;
+  -webkit-margin-after: 0;
+  margin-block-end: 0;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(/fonts/Montserrat-Bold.ttf);
+}
+header {
+  background-image: url("../img/Zhang-Yiwei-CGI-women-short-hair-purple-hair-blue-eyes-2185487-wallhere\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  min-height: 1024px;
+}
+.id {
+  margin-left: 126px;
+}
+ .id1 {
+  margin-left: 55px;
+  margin-top: 35px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  white-space: nowrap; 
+}
+
+.font {
+  padding-top: 24px;
+}
+.id2{
+  margin-top:35px ;
+  margin-left:42px ;
+}
+.id3{
+  margin-top: 35px;
+  margin-left: 28px;
+}
+
+.bt{
+  margin-top: 34px;
+  margin-left: 26px;
+  background: white !important;
+  padding: 10px 24px;
+  font-family: 'Montserrat' !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 22px !important;
+  color: #000000 !important; 
+  text-decoration: none;
+  white-space: nowrap; 
+}
+@media (min-width:990px) {
+  header{
+    background-image: url("../img/Zhang-Yiwei-CGI-women-short-hair-purple-hair-blue-eyes-2185487-wallhere\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    min-width:1491px !important;
+  }
+  
+  
+}
+.id5{
+  margin-top: 342px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 85px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.id6{
+  margin-top:40px ;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+.id7{
+  margin-top: 53px;
+  text-align: center;
+}
+.id77{
+  margin-left: 42px;
+}
+.id88{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: #5604AD;
+  padding: 13px 33px;
+  
+}
+.id89{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  text-decoration: none;
+  background: #FFFFFF;
+  padding: 13px 33px;
+
+}
+.i{
+  background: linear-gradient(180deg, #060307 23.04%, #090A26 55.93%);
+  background-position: center;
+  background-size: cover;
+  min-Height:5055px;
+}
+.a{
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 124px; 
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+}
+.col-6{
+flex: 0 0 0%;
+padding-left: 100px;
+
+}
+
+.a1{
+  padding-top: 25px;
+}
+.a2{
+  padding-top: 43px;
+}
+.a3{
+  padding-top: 79px;
+}
+.a4{
+  padding-top: 86px;
+}
+.a5{
+  padding-top: 82px;
+}
+.a6{
+  padding-top: 34px;
+}
+.h1{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+text-align: center;
+padding-top: 430px;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
+.col-3{
+  padding-top: 133px;
+width:33.33333% ;
+}
+.a7{
+  padding-left: 201px;
+
+}
+.a8{
+  padding-left: 179px;
+}
+.a9{
+  padding-left: 163px;
+}
+.h2{
+  padding-top: 3087px;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+  line-height: 29px;
+}
+.p1{
+  background-image: url('../img/artwork-glasses-glowing-cyberpunk-Cyberpunk-2077-looking-at-viewer-1897613-wallhere\ 1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 497px;
+  margin-top: 90px;
+  padding-right: 120px;
+}
+.p2{
+  position: relative;
+  width: 420px;
+  margin-left:auto;
+  padding-top: 87px;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 39px;
+  color: #FFFFFF;
+}
+.p3{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: #5604AD;
+  padding-left: 33px;
+  padding-right: 33px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  text-align: center;
+  display: block;
+  width: fit-content;
+  margin: 54px auto;
+}
+
+
+@media (max-width:1496px){
+  main .i{
+    background: linear-gradient(180deg, #060307 23.04%, #090A26 55.93%);
+    background-size: cover;
+    min-Height:5055px;
+  }
+}
+.box.u {
+  border:solid 3px rebeccapurple;
+  min-width: 350px !important;
+  min-height: 465px !important;
+  display: flex;
+  justify-content: center;
+}
+.n{
+  margin-top: 133px;
+  display: flex;
+  justify-content: center;
+}
+.card.u1 {
+  --bs-card-bg: ;
+  max-width:226px;
+  max-Height:230px;
+  text-align: center;
+}
+.n1 h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  padding-top: 24px;
+}
+.n2 p{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  padding-top: 49px;
+}
+.n3 h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  padding-top: 1px;
+}
+.n4 p{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  padding-top: 49px;
+}
+.n5 h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  padding-top: 34px;
+}
+.n6 p{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  padding-top: 49px;
+}
+
+.w{
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-size: 24px;
+  line-height: 29px;
+  padding-top: 130px;
+}
+.container.l{
+  margin-top: 90px;
+}
+.box.w1{
+ 
+}
+.card.w2{
+  --bs-card-bg: ;
+}
+.card.w2 img{
+  max-width: 285px;
+  min-height: 327px;
+}
+.card.w2 h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  padding-top: 80px;
+  text-align: center;
+}
+.card.w2 p{
+  padding-top: 20px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  text-align: center;
+}
